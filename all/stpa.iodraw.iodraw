@@ -7,7 +7,7 @@
         <mxCell id="2I3TqHrceX5xHaFoRAsH-131" value="地面站_人机环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="244" y="805" width="368" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="2I3TqHrceX5xHaFoRAsH-132" value="执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-132" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="805" width="462" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-133" value="控制软件层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
