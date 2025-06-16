@@ -76,6 +76,14 @@
         <mxCell id="2I3TqHrceX5xHaFoRAsH-154" value="远程接管" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="830" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-155" value="S1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.26;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-137" target="2I3TqHrceX5xHaFoRAsH-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="103" y="119" />
+              <mxPoint x="815" y="156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-156" value="S1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-138" target="2I3TqHrceX5xHaFoRAsH-143">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
