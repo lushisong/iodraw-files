@@ -1210,11 +1210,14 @@
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-63" value="算法单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" y="2683" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4RpFLsAnhSaxW5feUsHZ-64" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-64" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="317" y="2740" as="sourcePoint" />
             <mxPoint x="347" y="2740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-65" value="算法单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2693" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
