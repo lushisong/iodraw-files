@@ -293,16 +293,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-61" value="EO/IR摄像机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="622" y="1002" width="150" height="49" as="geometry" />
+          <mxGeometry x="910" y="860" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-62" value="毫米波雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="627" y="1101" width="140" height="49" as="geometry" />
+          <mxGeometry x="915" y="959" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-63" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="654" y="1200" width="86" height="49" as="geometry" />
+          <mxGeometry x="942" y="1058" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-64" value="时间同步" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="981" y="1079" width="124" height="49" as="geometry" />
+          <mxGeometry x="1269" y="937" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-65" value="空间配准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1278" y="1079" width="124" height="49" as="geometry" />
@@ -340,21 +340,21 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-76" value="I1 EO/IR图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-61" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="876" y="1026" />
+              <mxPoint x="1164" y="884" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-77" value="I2 雷达点云采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.66;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-62" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="876" y="1125" />
+              <mxPoint x="1164" y="983" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-78" value="I3 IMU数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.22;entryY=1;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-63" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="876" y="1224" />
+              <mxPoint x="1164" y="1082" />
             </Array>
           </mxGeometry>
         </mxCell>
