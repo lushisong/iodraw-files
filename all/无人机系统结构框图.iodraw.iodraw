@@ -683,7 +683,7 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-140" value="毫米波雷达" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="165" y="2728" width="111" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-141" value="IMU" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-141" value="惯性测量单元" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;perimeter=rectanglePerimeter;" vertex="1" parent="1">
           <mxGeometry x="160" y="2892" width="110" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-142" value="执行器" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
