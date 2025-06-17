@@ -779,7 +779,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-165" value="I10 飞控-执行器接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.13;entryX=0;entryY=0.32;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-154" target="iZuiX0BBJo7LDxWYD9q5-142" edge="1">
-          <mxGeometry x="0.3821" y="-5" relative="1" as="geometry">
+          <mxGeometry x="0.536" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1320" y="2590" />
             </Array>
