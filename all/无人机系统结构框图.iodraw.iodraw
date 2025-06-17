@@ -832,6 +832,9 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-170" value="15 数据存档接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.912;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-146" edge="1">
           <mxGeometry x="0.5129" relative="1" as="geometry">
             <mxPoint x="2090" y="3030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="2940" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1162,7 +1165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-54" value="23 避障-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.261;exitY=0.949;entryX=0.798;entryY=-0.033;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-146">
-          <mxGeometry x="-0.4506" y="-7" relative="1" as="geometry">
+          <mxGeometry x="-0.3126" y="1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1110" y="2950" />
             </Array>
