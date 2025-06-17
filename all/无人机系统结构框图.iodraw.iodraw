@@ -740,7 +740,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-158" value="I3 IMU数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.25;entryY=1;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-141" target="iZuiX0BBJo7LDxWYD9q5-148">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-158" value="I3 惯性测量单元数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.25;entryY=1;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-141" target="iZuiX0BBJo7LDxWYD9q5-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="2909" />
