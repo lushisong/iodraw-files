@@ -671,7 +671,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-137" value="机载计算机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-137" value="机载计算机" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="490" y="2490" width="1719" height="658" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-138" value="飞控任务应用软件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
