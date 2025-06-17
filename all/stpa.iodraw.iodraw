@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="633" width="1080" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-134" value="决策层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1113" y="354" width="247" height="246" as="geometry" />
+          <mxGeometry x="1113" y="60" width="247" height="540" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-135" value="感知算法层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="784" y="60" width="309" height="540" as="geometry" />
