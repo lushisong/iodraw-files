@@ -747,7 +747,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-159" value="4 同步-配准接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-148" target="iZuiX0BBJo7LDxWYD9q5-149" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-159" value="4 同步-配准接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-148" target="iZuiX0BBJo7LDxWYD9q5-149" edge="1">
           <mxGeometry x="0.1569" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="2720" />
@@ -1086,7 +1086,9 @@
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-46" value="17 时间同步-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.085;entryY=-0.056;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-148" target="iZuiX0BBJo7LDxWYD9q5-146">
           <mxGeometry x="0.2155" y="-8" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="540" y="2930" />
+            </Array>
             <mxPoint x="618" y="2822" as="sourcePoint" />
             <mxPoint x="657" y="2738" as="targetPoint" />
             <mxPoint as="offset" />
