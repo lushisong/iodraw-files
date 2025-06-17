@@ -711,7 +711,7 @@
           <mxGeometry x="635" y="2552" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-150" value="目标检测算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="762" y="2683" width="111" height="111" as="geometry" />
+          <mxGeometry x="750" y="2750" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-151" value="卡尔曼跟踪算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1393" y="2681" width="127" height="127" as="geometry" />
