@@ -1077,6 +1077,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-46" value="I4 同步-配准接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="618" y="2822" as="sourcePoint" />
+            <mxPoint x="657" y="2738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
