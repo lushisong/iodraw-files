@@ -769,7 +769,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-151" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-151" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
           <mxGeometry x="-0.0044" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="2750" />
@@ -785,7 +785,9 @@
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-164" value="9 航迹指令接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
           <mxGeometry x="-0.0035" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1050" y="2720" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
