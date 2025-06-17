@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="WY7s4hOJFavlaRUSMRMy" name="第 1 页">
-    <mxGraphModel dx="858" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,17 +343,19 @@
           <mxGeometry x="2238" y="1497" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-83" value="I8 航迹-避障接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-68" target="iZuiX0BBJo7LDxWYD9q5-69">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1598" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1796" y="1472" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-84" value="I9 航迹指令接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-68" target="iZuiX0BBJo7LDxWYD9q5-70">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1058" y="-7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1796" y="1246" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-85" value="I10 飞控-执行器接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.19;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-70" target="iZuiX0BBJo7LDxWYD9q5-71">
@@ -378,12 +380,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-88" value="I13 通信-链路接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.31;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-72" target="iZuiX0BBJo7LDxWYD9q5-73">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0555" y="36" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2453" y="1302" />
               <mxPoint x="2400" y="1180" />
             </Array>
             <mxPoint x="2362" y="1180" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-89" value="I14 链路-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=1;entryY=0.67;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-73" target="iZuiX0BBJo7LDxWYD9q5-72">
