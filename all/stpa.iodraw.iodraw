@@ -26,10 +26,10 @@
           <mxGeometry x="480.5" y="299" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-138" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="485" y="210" width="90" height="50" as="geometry" />
+          <mxGeometry x="492" y="190" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-139" value="声呐" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="637" y="201" width="90" height="50" as="geometry" />
+          <mxGeometry x="643" y="210" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-140" value="雷达" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="492" y="99" width="90" height="50" as="geometry" />
