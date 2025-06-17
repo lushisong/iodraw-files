@@ -675,7 +675,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-138" value="飞控任务应用软件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="515" y="2510" width="835" height="420" as="geometry" />
+          <mxGeometry x="515" y="2610" width="835" height="320" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-139" value="光电红外摄像机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
           <mxGeometry x="258" y="2767.5" width="115" height="34" as="geometry" />
