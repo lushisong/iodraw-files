@@ -384,8 +384,6 @@
             <Array as="points">
               <mxPoint x="2453" y="1302" />
               <mxPoint x="2420" y="1210" />
-              <mxPoint x="2390" y="1190" />
-              <mxPoint x="2390" y="1170" />
             </Array>
             <mxPoint x="2362" y="1180" as="targetPoint" />
             <mxPoint as="offset" />
