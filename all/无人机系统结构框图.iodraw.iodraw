@@ -354,7 +354,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-92" value="" style="group;direction=west;rotation=-180;flipV=0;flipH=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-92" value="" style="group;direction=west;rotation=-180;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="1199.5" width="1083" height="346" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-68" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;rotation=-180;" vertex="1" parent="iZuiX0BBJo7LDxWYD9q5-92">
