@@ -524,6 +524,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-39" value="多模态传感器&#xa;EO/IR 摄像、毫米波雷达、IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1099" y="2594" width="231" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-40" value="感知/融合&#xa;时间同步 → 空间配准 → 目标检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1099" y="2758" width="232" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-41" value="跟踪/规划&#xa;卡尔曼跟踪 → 路径规划 → 避障/重定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1091" y="2923" width="248" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-42" value="飞控&#xa;姿态控制、动力分配、健康监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1088" y="3087" width="252" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-43" value="执行器&#xa;电调/电机、舵面、云台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="933" y="3252" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-44" value="链路&#xa;4G/卫星、遥控备用信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1243" y="3252" width="247" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-45" value="U1 多传感器 → 融合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-39" target="R_GBgGsYiubGAbNHDVUH-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-46" value="U2 融合 → 跟踪" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-40" target="R_GBgGsYiubGAbNHDVUH-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-47" value="U3 跟踪 → 规划" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-41" target="R_GBgGsYiubGAbNHDVUH-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="3038" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-48" value="F2 飞控 ↔ 执行器 CAN" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-42" target="R_GBgGsYiubGAbNHDVUH-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1063" y="3203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-49" value="F1 规划 → 飞控" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-41" target="R_GBgGsYiubGAbNHDVUH-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1407" y="3038" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-50" value="L2 链路切换接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-42" target="R_GBgGsYiubGAbNHDVUH-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1366" y="3203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
