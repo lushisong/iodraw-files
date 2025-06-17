@@ -1187,28 +1187,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-56" value="" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.16666666666666666;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2618.5" width="35" height="20" as="geometry" />
+          <mxGeometry x="342.5" y="2588.5" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-57" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2687.5" width="25" height="25" as="geometry" />
+          <mxGeometry x="347.5" y="2657.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-58" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="285" y="2652.5" width="35" height="20" as="geometry" />
+          <mxGeometry x="342.5" y="2622.5" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-59" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="800" y="2750" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-60" value="图例" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="2570" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="2540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-61" value="硬件单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="323" y="2608.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="380.5" y="2578.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-62" value="软件单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="323" y="2642.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="380.5" y="2612.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-63" value="算法单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="323" y="2680" width="100" height="40" as="geometry" />
+          <mxGeometry x="380.5" y="2650" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
