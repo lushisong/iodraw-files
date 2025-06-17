@@ -801,7 +801,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-168" value="I13 通信-链路接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.75;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-143" target="iZuiX0BBJo7LDxWYD9q5-144" edge="1">
-          <mxGeometry x="0.4806" relative="1" as="geometry">
+          <mxGeometry x="-0.5925" y="-26" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1480" y="2850" />
             </Array>
