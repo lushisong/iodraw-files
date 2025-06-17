@@ -23,19 +23,19 @@
           <mxGeometry x="280" y="60" width="484" height="540" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-137" value="GNSS" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="180" width="89" height="49" as="geometry" />
+          <mxGeometry x="340" y="194" width="89" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-138" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="482" y="180" width="86" height="49" as="geometry" />
+          <mxGeometry x="482" y="194" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-139" value="声呐" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="337" y="85" width="92" height="49" as="geometry" />
+          <mxGeometry x="337" y="99" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-140" value="雷达" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="479" y="85" width="92" height="49" as="geometry" />
+          <mxGeometry x="479" y="99" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-141" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="621" y="85" width="108" height="49" as="geometry" />
+          <mxGeometry x="621" y="99" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-142" value="预处理" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="950" y="242" width="108" height="49" as="geometry" />
