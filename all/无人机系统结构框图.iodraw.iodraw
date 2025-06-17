@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-1" value="机载计算机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.005847953216374269;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2589" width="880" height="560" as="geometry" />
+          <mxGeometry x="490" y="2589" width="880" height="511" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-1" value="多模态传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="140" width="156" height="49" as="geometry" />
@@ -723,7 +723,7 @@
           <mxGeometry x="1137" y="2652.5" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-155" value="本地界面" style="whiteSpace=wrap;strokeWidth=2;cloneable=1;" parent="1" vertex="1">
-          <mxGeometry x="1545" y="2907.5" width="99" height="38" as="geometry" />
+          <mxGeometry x="2265" y="2859.5" width="99" height="38" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-156" value="I1 光电红外图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-139" target="iZuiX0BBJo7LDxWYD9q5-148" edge="1">
           <mxGeometry x="-0.4952" y="16" relative="1" as="geometry">
