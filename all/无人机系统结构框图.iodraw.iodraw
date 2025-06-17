@@ -1146,10 +1146,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4RpFLsAnhSaxW5feUsHZ-55" value="I7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0.703;entryY=0.081;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="iZuiX0BBJo7LDxWYD9q5-146">
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-55" value="22 规划-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;entryX=0.703;entryY=0.081;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-146">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="918" y="2738" as="sourcePoint" />
+            <mxPoint x="1000" y="2870" as="sourcePoint" />
             <mxPoint x="982" y="2822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
