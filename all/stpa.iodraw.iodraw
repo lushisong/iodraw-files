@@ -10,7 +10,7 @@
         <mxCell id="2I3TqHrceX5xHaFoRAsH-132" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="898" y="805" width="462" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="2I3TqHrceX5xHaFoRAsH-133" value="控制软件层" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-133" value="控制软件层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="633" width="1080" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-134" value="决策层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
