@@ -415,19 +415,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-61" value="EO/IR摄像机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="761" width="150" height="49" as="geometry" />
+          <mxGeometry x="1870" y="761" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-76" value="I1 EO/IR图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-61" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-62" value="毫米波雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="820" width="140" height="49" as="geometry" />
+          <mxGeometry x="1870" y="821" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-77" value="I2 雷达点云采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-62" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-63" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="890" width="86" height="49" as="geometry" />
+          <mxGeometry x="1870" y="890" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-78" value="I3 IMU数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-63" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry" />
