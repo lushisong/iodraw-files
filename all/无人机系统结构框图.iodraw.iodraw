@@ -1086,7 +1086,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-47" value="I17 时间同步-OS接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.094;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-149" target="iZuiX0BBJo7LDxWYD9q5-146">
-          <mxGeometry x="0.178" y="2" relative="1" as="geometry">
+          <mxGeometry x="0.0722" y="14" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="590" y="2890" as="sourcePoint" />
             <mxPoint x="553" y="3025" as="targetPoint" />
