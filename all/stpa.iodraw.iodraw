@@ -207,10 +207,10 @@
         <mxCell id="2I3TqHrceX5xHaFoRAsH-173" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="568" y="1993" width="486" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="2I3TqHrceX5xHaFoRAsH-174" value="飞控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-174" value="飞控层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="1821" width="964" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="2I3TqHrceX5xHaFoRAsH-175" value="跟踪规划层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-175" value="跟踪规划层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1034" y="1552" width="231" height="368" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-176" value="感知融合层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
