@@ -702,7 +702,7 @@
           <mxGeometry x="640" y="2957" width="450" height="36" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="530" y="2800" width="80" height="80" as="geometry" />
+          <mxGeometry x="529" y="2808" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="635" y="2660" width="80" height="80" as="geometry" />
