@@ -201,10 +201,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2I3TqHrceX5xHaFoRAsH-172" value="链路层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-172" value="链路层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="1993" width="429" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="2I3TqHrceX5xHaFoRAsH-173" value="执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2I3TqHrceX5xHaFoRAsH-173" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="568" y="1993" width="486" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-174" value="飞控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
