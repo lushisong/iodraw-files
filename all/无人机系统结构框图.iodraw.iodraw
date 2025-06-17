@@ -701,16 +701,16 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-147" value="机器学习框架" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="515" y="2947" width="575" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540" y="2800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="635" y="2660" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-150" value="目标检测算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-150" value="目标检测&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="740" y="2800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-151" value="卡尔曼跟踪算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-151" value="卡尔曼跟踪&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="840" y="2660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-152" value="路径规划&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
