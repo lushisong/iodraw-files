@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="2I3TqHrceX5xHaFoRAsH-131" value="地面站_人机环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="244" y="805" width="368" height="99" as="geometry" />
+          <mxGeometry x="247" y="805" width="368" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-132" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="898" y="805" width="462" height="99" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="1233" y="830" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-153" value="任务规划" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="279" y="830" width="124" height="49" as="geometry" />
+          <mxGeometry x="282" y="830" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-154" value="远程接管" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="453" y="830" width="124" height="49" as="geometry" />
+          <mxGeometry x="456" y="830" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-155" value="S1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.26;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-137" target="2I3TqHrceX5xHaFoRAsH-143" edge="1">
           <mxGeometry relative="1" as="geometry">
