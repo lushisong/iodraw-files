@@ -23,7 +23,7 @@
           <mxGeometry x="280" y="60" width="484" height="540" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-137" value="GNSS" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="54" y="85" width="97" height="49" as="geometry" />
+          <mxGeometry x="332" y="260" width="97" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-138" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="201" y="85" width="86" height="49" as="geometry" />
