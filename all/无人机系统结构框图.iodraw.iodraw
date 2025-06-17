@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4RpFLsAnhSaxW5feUsHZ-1" value="机载计算机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.005847953216374269;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-1" value="机载计算机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.005847953216374269;verticalAlign=bottom;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="2589" width="780" height="511" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-1" value="多模态传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -695,7 +695,7 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-144" value="无线链路" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
           <mxGeometry x="1393.5" y="2846" width="95" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-146" value="嵌入式OS" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-146" value="嵌入式OS" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="515" y="3012" width="745" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-147" value="机器学习框架" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" parent="1" vertex="1">
@@ -717,7 +717,7 @@
           <mxGeometry x="960" y="2800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-153" value="避障 / 重定位算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="2800" width="80" height="80" as="geometry" />
+          <mxGeometry x="1153" y="2800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-154" value="飞控控制&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1137" y="2652.5" width="80" height="80" as="geometry" />
