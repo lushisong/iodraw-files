@@ -708,7 +708,7 @@
           <mxGeometry x="540" y="2689" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="683" y="2552" width="111" height="111" as="geometry" />
+          <mxGeometry x="651" y="2552" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-150" value="目标检测算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1109" y="2689" width="111" height="111" as="geometry" />
@@ -750,7 +750,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-159" value="I4 同步-配准接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-148" target="iZuiX0BBJo7LDxWYD9q5-149" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-159" value="I4 同步-配准接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-148" target="iZuiX0BBJo7LDxWYD9q5-149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
