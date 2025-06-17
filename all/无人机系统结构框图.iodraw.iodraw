@@ -1122,8 +1122,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4RpFLsAnhSaxW5feUsHZ-52" value="21 跟踪-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.541;entryY=-0.053;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-147">
-          <mxGeometry x="-0.2218" y="2" relative="1" as="geometry">
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-52" value="24 &#xa;&#xa;避障-ML&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.541;entryY=-0.053;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-147">
+          <mxGeometry x="-0.2225" y="2" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="890" y="2750" as="sourcePoint" />
             <mxPoint x="1016" y="3022" as="targetPoint" />
