@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="WY7s4hOJFavlaRUSMRMy" name="第 1 页">
-    <mxGraphModel dx="1491" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-84" value="I9 航迹指令接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-68" target="iZuiX0BBJo7LDxWYD9q5-70">
-          <mxGeometry x="0.1058" y="-7" relative="1" as="geometry">
+          <mxGeometry x="0.0653" y="-29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1796" y="1246" />
             </Array>
