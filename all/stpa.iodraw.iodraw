@@ -23,10 +23,10 @@
           <mxGeometry x="310" y="60" width="454" height="540" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-137" value="GNSS" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="194" width="89" height="49" as="geometry" />
+          <mxGeometry x="479" y="193" width="89" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-138" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="482" y="194" width="86" height="49" as="geometry" />
+          <mxGeometry x="621" y="193" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-139" value="声呐" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="337" y="99" width="92" height="49" as="geometry" />
