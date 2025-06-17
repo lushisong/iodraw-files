@@ -788,8 +788,7 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-166" value="I11 执行器反馈接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=1;entryY=0.33;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-142" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="2700" />
-              <mxPoint x="1308" y="2667.5" />
+              <mxPoint x="1340" y="2700" />
             </Array>
           </mxGeometry>
         </mxCell>
