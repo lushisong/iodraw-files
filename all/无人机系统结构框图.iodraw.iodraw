@@ -725,7 +725,7 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-154" value="飞控控制算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2013" y="2587" width="111" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-155" value="本地界面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-155" value="本地界面" style="whiteSpace=wrap;strokeWidth=2;cloneable=1;" parent="1" vertex="1">
           <mxGeometry x="2421" y="2842" width="99" height="38" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-156" value="I1 光电红外图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.29;entryY=0;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-139" target="iZuiX0BBJo7LDxWYD9q5-148" edge="1">
