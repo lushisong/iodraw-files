@@ -705,7 +705,7 @@
           <mxGeometry x="515" y="2950" width="885" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="540" y="2689" width="111" height="111" as="geometry" />
+          <mxGeometry x="540" y="2700" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="635" y="2550" width="113" height="113" as="geometry" />
