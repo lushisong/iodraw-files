@@ -699,7 +699,7 @@
           <mxGeometry x="2421" y="2758" width="95" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-146" value="RTOS / 嵌入式OS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="746" y="3040" width="180" height="49" as="geometry" />
+          <mxGeometry x="515" y="3030" width="1665" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-147" value="机器学习框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="515" y="2950" width="885" height="49" as="geometry" />
