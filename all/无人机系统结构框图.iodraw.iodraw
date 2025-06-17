@@ -753,21 +753,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-160" value="I5 配准-检测接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-149" target="iZuiX0BBJo7LDxWYD9q5-150" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-160" value="5 配准-检测接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-149" target="iZuiX0BBJo7LDxWYD9q5-150" edge="1">
           <mxGeometry x="-0.0085" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-161" value="I6 检测-跟踪接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-150" target="iZuiX0BBJo7LDxWYD9q5-151" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-161" value="6 检测-跟踪接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-150" target="iZuiX0BBJo7LDxWYD9q5-151" edge="1">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="I7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-151" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-151" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
+          <mxGeometry x="-0.0044" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="960" y="2710" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-163" value="I8 航迹-避障接口" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;startFill=1;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-153" edge="1">
