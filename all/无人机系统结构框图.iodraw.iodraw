@@ -143,6 +143,155 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-30" value="EO/IR摄像机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="461" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-31" value="毫米波雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="560" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-32" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="659" width="86" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-33" value="时间同步" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="538" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-34" value="空间配准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="622" y="538" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-35" value="目标检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="898" y="538" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-36" value="卡尔曼跟踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="538" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-37" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="538" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-38" value="避障 / 重定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1741" y="637" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-39" value="飞控系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1758" y="411" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-40" value="执行器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2083" y="390" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-41" value="通信模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-42" value="无线链路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2359" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-43" value="本地界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="588" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-44" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="687" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-45" value="I1 EO/IR图像采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-30" target="iZuiX0BBJo7LDxWYD9q5-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-46" value="I2 雷达点云采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.68;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-31" target="iZuiX0BBJo7LDxWYD9q5-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-47" value="I3 IMU数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.25;entryY=1;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-32" target="iZuiX0BBJo7LDxWYD9q5-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-48" value="I4 同步→配准" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-33" target="iZuiX0BBJo7LDxWYD9q5-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-49" value="I5 配准→检测" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-34" target="iZuiX0BBJo7LDxWYD9q5-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-50" value="I6 检测→跟踪" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-35" target="iZuiX0BBJo7LDxWYD9q5-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-51" value="I7 跟踪→规划" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-36" target="iZuiX0BBJo7LDxWYD9q5-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-52" value="I8 航迹→避障" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-37" target="iZuiX0BBJo7LDxWYD9q5-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1665" y="662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-53" value="I9 航迹指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-37" target="iZuiX0BBJo7LDxWYD9q5-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1665" y="436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-54" value="I10 飞控→执行器" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-39" target="iZuiX0BBJo7LDxWYD9q5-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1987" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-55" value="I11 执行器反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=1;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-40" target="iZuiX0BBJo7LDxWYD9q5-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1987" y="436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-56" value="I12 飞控→通信" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-39" target="iZuiX0BBJo7LDxWYD9q5-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1987" y="513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-57" value="I13 通信→链路" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-41" target="iZuiX0BBJo7LDxWYD9q5-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2279" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-58" value="I14 链路→通信" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-42" target="iZuiX0BBJo7LDxWYD9q5-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2279" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-59" value="I15 数据存档" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-38" target="iZuiX0BBJo7LDxWYD9q5-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1987" y="711" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-60" value="I16 可视化服务" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.02;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-38" target="iZuiX0BBJo7LDxWYD9q5-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1987" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
