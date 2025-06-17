@@ -791,21 +791,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-166" value="I11 执行器反馈接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=1;entryY=0.33;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-142" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
-          <mxGeometry x="-0.263" y="6" relative="1" as="geometry">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-166" value="11 执行器反馈接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=1;entryY=0.33;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-142" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
+          <mxGeometry x="-0.2664" y="6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1330" y="2680" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-167" value="I12 飞控-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.49;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-154" target="iZuiX0BBJo7LDxWYD9q5-143" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-167" value="12 飞控-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.49;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-154" target="iZuiX0BBJo7LDxWYD9q5-143" edge="1">
           <mxGeometry x="0.352" y="18" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-168" value="I13 通信-链路接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.75;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-143" target="iZuiX0BBJo7LDxWYD9q5-144" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-168" value="13 通信-链路接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.75;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-143" target="iZuiX0BBJo7LDxWYD9q5-144" edge="1">
           <mxGeometry x="-0.5925" y="-26" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1480" y="2850" />
@@ -814,7 +814,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-169" value="I14 链路-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-144" target="iZuiX0BBJo7LDxWYD9q5-143" edge="1">
-          <mxGeometry x="-0.1816" y="12" relative="1" as="geometry">
+          <mxGeometry x="-0.1791" y="12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1360" y="2860" />
             </Array>
