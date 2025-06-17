@@ -1163,14 +1163,16 @@
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-54" value="23 避障-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.261;exitY=0.949;entryX=0.798;entryY=-0.033;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-146">
           <mxGeometry x="-0.4506" y="-7" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1110" y="2950" />
+            </Array>
             <mxPoint x="1175" y="2878" as="sourcePoint" />
             <mxPoint x="855" y="2965" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-55" value="22 规划-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;entryX=0.703;entryY=0.081;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-146">
-          <mxGeometry x="0.2455" y="39" relative="1" as="geometry">
+          <mxGeometry x="0.1935" y="17" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="980" y="2940" />
             </Array>
