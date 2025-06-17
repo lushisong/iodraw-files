@@ -717,7 +717,7 @@
           <mxGeometry x="840" y="2550" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-152" value="路径规划算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1019" y="2649" width="111" height="111" as="geometry" />
+          <mxGeometry x="992" y="2664.5" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-153" value="避障 / 重定位算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1996" y="2750" width="145" height="145" as="geometry" />
@@ -765,9 +765,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="I7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-151" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="I7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" parent="1" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="960" y="2610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-163" value="I8 航迹-避障接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-153" edge="1">
