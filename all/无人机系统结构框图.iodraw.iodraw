@@ -699,7 +699,7 @@
           <mxGeometry x="515" y="3012" width="745" height="38" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-147" value="机器学习框架" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="710" y="2957" width="250" height="36" as="geometry" />
+          <mxGeometry x="710" y="2957" width="220" height="36" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="529" y="2770" width="80" height="80" as="geometry" />
@@ -771,7 +771,9 @@
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-162" value="7 跟踪-规划接口" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-151" target="iZuiX0BBJo7LDxWYD9q5-152" edge="1">
           <mxGeometry x="-0.0044" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="960" y="2750" />
+            </Array>
             <mxPoint x="960" y="2710" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
