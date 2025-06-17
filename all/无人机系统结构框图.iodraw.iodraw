@@ -749,7 +749,9 @@
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-159" value="4 同步-配准接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-148" target="iZuiX0BBJo7LDxWYD9q5-149" edge="1">
           <mxGeometry x="0.2424" y="24" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="600" y="2750" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1091,7 +1093,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-47" value="18 时间同步-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.141;entryY=0.035;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-149" target="iZuiX0BBJo7LDxWYD9q5-146">
-          <mxGeometry x="-0.5016" y="8" relative="1" as="geometry">
+          <mxGeometry x="-0.4731" y="29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="2830" />
             </Array>
