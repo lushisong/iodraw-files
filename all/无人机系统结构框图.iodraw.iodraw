@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="WY7s4hOJFavlaRUSMRMy" name="第 1 页">
-    <mxGraphModel dx="1247" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1187,28 +1187,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-56" value="" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.16666666666666666;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="2588.5" width="35" height="20" as="geometry" />
+          <mxGeometry x="312" y="2621.5" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-57" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="2657.5" width="25" height="25" as="geometry" />
+          <mxGeometry x="317" y="2690.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-58" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="2622.5" width="35" height="20" as="geometry" />
+          <mxGeometry x="312" y="2655.5" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-59" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="800" y="2750" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-60" value="图例" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2540" width="100" height="40" as="geometry" />
+          <mxGeometry x="279.5" y="2573" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-61" value="硬件单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="2578.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="2611.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-62" value="软件单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="2612.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="2645.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-63" value="算法单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="2650" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="2683" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
