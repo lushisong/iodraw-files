@@ -693,7 +693,7 @@
           <mxGeometry x="2421" y="2649" width="95" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-144" value="无线链路" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="2713" y="2649" width="95" height="34" as="geometry" />
+          <mxGeometry x="2610" y="2780" width="95" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-145" value="数据存储" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="2020" y="3100" width="158" height="34" as="geometry" />
@@ -804,14 +804,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-168" value="I13 通信-链路接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-143" target="iZuiX0BBJo7LDxWYD9q5-144">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-168" value="I13 通信-链路接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.75;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-143" target="iZuiX0BBJo7LDxWYD9q5-144">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2622" y="2644" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-169" value="I14 链路-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-144" target="iZuiX0BBJo7LDxWYD9q5-143">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-169" value="I14 链路-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-144" target="iZuiX0BBJo7LDxWYD9q5-143">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2622" y="2687" />
