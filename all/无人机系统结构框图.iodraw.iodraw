@@ -699,7 +699,7 @@
           <mxGeometry x="515" y="3012" width="745" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-147" value="机器学习框架" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="515" y="2947" width="575" height="49" as="geometry" />
+          <mxGeometry x="515" y="2957" width="575" height="36" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540" y="2800" width="80" height="80" as="geometry" />
