@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="WY7s4hOJFavlaRUSMRMy" name="第 1 页">
-    <mxGraphModel dx="858" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3147" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,11 +728,12 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-155" value="本地界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2421" y="2842" width="99" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-156" value="I1 EO/IR图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-139" target="iZuiX0BBJo7LDxWYD9q5-148">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-156" value="I1 光电红外图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-139" target="iZuiX0BBJo7LDxWYD9q5-148">
+          <mxGeometry x="0.0002" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="2550" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-157" value="I2 雷达点云采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-140" target="iZuiX0BBJo7LDxWYD9q5-148">
@@ -830,6 +831,9 @@
               <mxPoint x="2184" y="2867" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
