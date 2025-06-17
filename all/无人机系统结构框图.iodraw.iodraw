@@ -1108,7 +1108,9 @@
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-48" value="19 目标检测-ML&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.172;entryY=-0.005;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-150" target="iZuiX0BBJo7LDxWYD9q5-147">
           <mxGeometry x="-0.2311" y="2" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="750" y="2910" />
+            </Array>
             <mxPoint x="713" y="2738" as="sourcePoint" />
             <mxPoint x="762" y="2822" as="targetPoint" />
             <mxPoint as="offset" />
