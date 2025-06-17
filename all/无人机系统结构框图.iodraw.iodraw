@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="WY7s4hOJFavlaRUSMRMy" name="第 1 页">
-    <mxGraphModel dx="2868" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,22 +293,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-61" value="EO/IR摄像机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1271" width="150" height="49" as="geometry" />
+          <mxGeometry x="193" y="1030" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-62" value="毫米波雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1370" width="140" height="49" as="geometry" />
+          <mxGeometry x="198" y="1129" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-63" value="IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="1469" width="86" height="49" as="geometry" />
+          <mxGeometry x="225" y="1228" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-64" value="时间同步" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="379" y="1348" width="124" height="49" as="geometry" />
+          <mxGeometry x="552" y="1107" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-65" value="空间配准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="676" y="1348" width="124" height="49" as="geometry" />
+          <mxGeometry x="849" y="1107" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-66" value="目标检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="974" y="1348" width="124" height="49" as="geometry" />
+          <mxGeometry x="1147" y="1107" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-67" value="卡尔曼跟踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1271" y="1348" width="140" height="49" as="geometry" />
@@ -340,21 +340,21 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-76" value="I1 EO/IR图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-61" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="1295" />
+              <mxPoint x="447" y="1054" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-77" value="I2 雷达点云采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.66;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-62" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="1394" />
+              <mxPoint x="447" y="1153" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-78" value="I3 IMU数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.22;entryY=1;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-63" target="iZuiX0BBJo7LDxWYD9q5-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="1493" />
+              <mxPoint x="447" y="1252" />
             </Array>
           </mxGeometry>
         </mxCell>
