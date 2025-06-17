@@ -726,7 +726,7 @@
           <mxGeometry x="2013" y="2587" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-155" value="本地界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2407" y="2842" width="124" height="49" as="geometry" />
+          <mxGeometry x="2421" y="2842" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-156" value="I1 EO/IR图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-139" target="iZuiX0BBJo7LDxWYD9q5-148">
           <mxGeometry relative="1" as="geometry">
