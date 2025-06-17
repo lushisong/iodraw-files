@@ -681,7 +681,7 @@
           <mxGeometry x="225" y="2663" width="121" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-140" value="毫米波雷达" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
-          <mxGeometry x="230" y="2728" width="111" height="34" as="geometry" />
+          <mxGeometry x="225" y="2727.5" width="125" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-141" value="惯性测量单元" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;perimeter=rectanglePerimeter;" parent="1" vertex="1">
           <mxGeometry x="225" y="2892" width="110" height="34" as="geometry" />
