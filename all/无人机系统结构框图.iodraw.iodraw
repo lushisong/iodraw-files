@@ -786,7 +786,7 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-164" value="9 航迹指令接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
           <mxGeometry x="-0.0035" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="2720" />
+              <mxPoint x="1030" y="2700" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
