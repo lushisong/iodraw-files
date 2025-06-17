@@ -813,7 +813,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-169" value="I14 链路-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-144" target="iZuiX0BBJo7LDxWYD9q5-143" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-169" value="14 链路-通信接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-144" target="iZuiX0BBJo7LDxWYD9q5-143" edge="1">
           <mxGeometry x="-0.1791" y="12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1360" y="2860" />
@@ -822,13 +822,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-170" value="I15 数据存档接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.912;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-146" edge="1">
-          <mxGeometry x="0.5152" relative="1" as="geometry">
+          <mxGeometry x="0.5129" relative="1" as="geometry">
             <mxPoint x="2090" y="3030" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-171" value="I16 可视化服务接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-155" edge="1">
-          <mxGeometry x="0.3876" y="26" relative="1" as="geometry">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-171" value="16 可视化服务接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-155" edge="1">
+          <mxGeometry x="0.3887" y="26" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1340" y="3030" />
             </Array>
