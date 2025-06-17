@@ -720,7 +720,7 @@
           <mxGeometry x="960" y="2800" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-153" value="避障 / 重定位算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1996" y="2800" width="95" height="95" as="geometry" />
+          <mxGeometry x="1969" y="2794" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-154" value="飞控控制算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2013" y="2587" width="111" height="111" as="geometry" />
