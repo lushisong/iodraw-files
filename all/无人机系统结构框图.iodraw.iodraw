@@ -835,7 +835,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-171" value="16 可视化服务接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-155" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-171" value="16 可视化服务接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-155" edge="1">
           <mxGeometry x="0.3887" y="26" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1340" y="3030" />
