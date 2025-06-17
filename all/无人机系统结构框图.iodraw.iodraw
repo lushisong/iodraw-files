@@ -678,13 +678,13 @@
           <mxGeometry x="515" y="2620" width="735" height="310" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-139" value="光电红外摄像机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
-          <mxGeometry x="285" y="2786.5" width="115" height="34" as="geometry" />
+          <mxGeometry x="285" y="2826.5" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-140" value="毫米波雷达" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
-          <mxGeometry x="285" y="2846" width="115" height="34" as="geometry" />
+          <mxGeometry x="285" y="2886" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-141" value="惯性测量单元" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;perimeter=rectanglePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="285" y="2907.5" width="115" height="34" as="geometry" />
+          <mxGeometry x="285" y="2947.5" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-142" value="执行器" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
           <mxGeometry x="1370.25" y="2631" width="100" height="34" as="geometry" />
@@ -744,7 +744,7 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-158" value="3 惯性测量单元&#xa;数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=1;rounded=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-141" target="iZuiX0BBJo7LDxWYD9q5-148" edge="1">
           <mxGeometry x="-0.3808" y="-19" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="2920" />
+              <mxPoint x="480" y="2940" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
