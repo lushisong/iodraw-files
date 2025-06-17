@@ -1151,7 +1151,7 @@
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-53" value="25 飞控-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.75;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-154" target="iZuiX0BBJo7LDxWYD9q5-146">
           <mxGeometry x="-0.6186" y="15" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1080" y="2870" />
+              <mxPoint x="1070" y="2770" />
             </Array>
             <mxPoint x="1175" y="2878" as="sourcePoint" />
             <mxPoint x="855" y="2965" as="targetPoint" />
@@ -1168,7 +1168,9 @@
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-55" value="22 规划-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;entryX=0.703;entryY=0.081;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-146">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1000" y="2950" />
+            </Array>
             <mxPoint x="1000" y="2870" as="sourcePoint" />
             <mxPoint x="982" y="2822" as="targetPoint" />
           </mxGeometry>
