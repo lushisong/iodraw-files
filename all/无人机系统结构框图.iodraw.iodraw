@@ -1102,8 +1102,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4RpFLsAnhSaxW5feUsHZ-49" value="I5 配准-检测&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.197;entryY=0.035;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-150" target="iZuiX0BBJo7LDxWYD9q5-146">
-          <mxGeometry x="-0.6257" y="-29" relative="1" as="geometry">
+        <mxCell id="4RpFLsAnhSaxW5feUsHZ-49" value="20 目标检测-OS&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.197;entryY=0.035;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-150" target="iZuiX0BBJo7LDxWYD9q5-146">
+          <mxGeometry x="-0.3363" y="-9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="2910" />
             </Array>
