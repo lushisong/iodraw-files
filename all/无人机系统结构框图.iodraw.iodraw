@@ -440,10 +440,10 @@
           <mxGeometry x="1240" y="2195" width="121" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-95" value="毫米波雷达" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="2279" width="111" height="34" as="geometry" />
+          <mxGeometry x="1240" y="2279" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-96" value="IMU" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="2363" width="78" height="34" as="geometry" />
+          <mxGeometry x="1240" y="2360" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-97" value="机载计算机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="1245" y="1884" width="111" height="34" as="geometry" />
