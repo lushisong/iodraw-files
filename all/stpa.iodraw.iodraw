@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2390" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4924" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="2I3TqHrceX5xHaFoRAsH-131" value="地面站_人机环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="478" y="805" width="368" height="99" as="geometry" />
+          <mxGeometry x="452" y="805" width="368" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-132" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="898" y="805" width="462" height="99" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="1233" y="830" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-153" value="任务规划" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="513" y="830" width="124" height="49" as="geometry" />
+          <mxGeometry x="487" y="830" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-154" value="远程接管" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="687" y="830" width="124" height="49" as="geometry" />
+          <mxGeometry x="661" y="830" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-155" value="S1" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.26;entryY=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-137" target="2I3TqHrceX5xHaFoRAsH-143" edge="1">
           <mxGeometry x="0.3824" y="-14" relative="1" as="geometry">
@@ -521,6 +521,62 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="354" y="3326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-27" value="多模态传感器&#xa;EO/IR 摄像、毫米波雷达、IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="156" y="40" width="231" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-28" value="感知/融合&#xa;时间同步 → 空间配准 → 目标检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="156" y="204" width="232" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-29" value="跟踪/规划&#xa;卡尔曼跟踪 → 路径规划 → 避障/重定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="148" y="369" width="248" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-30" value="飞控&#xa;姿态控制、动力分配、健康监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="533" width="252" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-31" value="执行器&#xa;电调/电机、舵面、云台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="698" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-32" value="链路&#xa;4G/卫星、遥控备用信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="698" width="247" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-33" value="U1 多传感器 → 融合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-27" target="R_GBgGsYiubGAbNHDVUH-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-34" value="U2 融合 → 跟踪" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-28" target="R_GBgGsYiubGAbNHDVUH-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-35" value="U3 跟踪 → 规划" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-29" target="R_GBgGsYiubGAbNHDVUH-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="77" y="484" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-36" value="F2 飞控 ↔ 执行器 CAN" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-30" target="R_GBgGsYiubGAbNHDVUH-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-37" value="F1 规划 → 飞控" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-29" target="R_GBgGsYiubGAbNHDVUH-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="464" y="484" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_GBgGsYiubGAbNHDVUH-38" value="L2 链路切换接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_GBgGsYiubGAbNHDVUH-30" target="R_GBgGsYiubGAbNHDVUH-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="649" />
             </Array>
           </mxGeometry>
         </mxCell>
