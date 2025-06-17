@@ -708,13 +708,13 @@
           <mxGeometry x="540" y="2689" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="635" y="2552" width="111" height="111" as="geometry" />
+          <mxGeometry x="635" y="2550" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-150" value="目标检测算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="740" y="2689" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-151" value="卡尔曼跟踪算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="840" y="2560" width="103" height="103" as="geometry" />
+          <mxGeometry x="840" y="2550" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-152" value="路径规划算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1694" y="2689" width="111" height="111" as="geometry" />
