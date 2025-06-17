@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-174" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2490" width="1730" height="660" as="geometry" />
+        </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-1" value="多模态传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="156" height="49" as="geometry" />
         </mxCell>
@@ -831,9 +834,6 @@
               <mxPoint x="2184" y="2867" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2490" width="1730" height="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
