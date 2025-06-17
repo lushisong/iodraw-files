@@ -728,17 +728,17 @@
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-156" value="1 光电红外图像采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-139" target="iZuiX0BBJo7LDxWYD9q5-148" edge="1">
           <mxGeometry x="-0.4952" y="16" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="2720" />
+              <mxPoint x="470" y="2750" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-157" value="2 雷达点云&#xa;采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-140" target="iZuiX0BBJo7LDxWYD9q5-148" edge="1">
-          <mxGeometry x="-0.2244" y="36" relative="1" as="geometry">
+          <mxGeometry x="-0.2029" y="28" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="2870" />
             </Array>
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-158" value="3 惯性测量单元&#xa;数据采集接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=1;rounded=0;entryDx=0;entryDy=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-141" target="iZuiX0BBJo7LDxWYD9q5-148" edge="1">
