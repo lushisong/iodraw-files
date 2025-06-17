@@ -1141,10 +1141,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4RpFLsAnhSaxW5feUsHZ-52" value="24 避障-ML&#xa;接口" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.541;entryY=-0.053;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-153" target="iZuiX0BBJo7LDxWYD9q5-147">
-          <mxGeometry x="0.2486" y="-14" relative="1" as="geometry">
+          <mxGeometry x="0.6628" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1090" y="2920" />
-              <mxPoint x="860" y="2910" />
+              <mxPoint x="850" y="2910" />
             </Array>
             <mxPoint x="890" y="2750" as="sourcePoint" />
             <mxPoint x="1016" y="3022" as="targetPoint" />
