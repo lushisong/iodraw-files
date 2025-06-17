@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="2I3TqHrceX5xHaFoRAsH-131" value="地面站_人机环" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="805" width="368" height="99" as="geometry" />
+          <mxGeometry x="389" y="805" width="368" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-132" value="执行层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="898" y="805" width="462" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-133" value="控制软件层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="633" width="1080" height="99" as="geometry" />
+          <mxGeometry x="310" y="633" width="1050" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-134" value="决策层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1113" y="60" width="247" height="540" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="915" y="658" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-149" value="链路管理" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="366" y="658" width="124" height="49" as="geometry" />
+          <mxGeometry x="475" y="658" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-150" value="推进器" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="933" y="830" width="108" height="49" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="1233" y="830" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-153" value="任务规划" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="315" y="830" width="124" height="49" as="geometry" />
+          <mxGeometry x="424" y="830" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-154" value="远程接管" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="489" y="830" width="124" height="49" as="geometry" />
+          <mxGeometry x="598" y="830" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-155" value="S1" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.26;entryY=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-137" target="2I3TqHrceX5xHaFoRAsH-143" edge="1">
           <mxGeometry x="0.1975" relative="1" as="geometry">
@@ -174,32 +174,32 @@
         <mxCell id="2I3TqHrceX5xHaFoRAsH-168" value="L1" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.42;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-149" target="2I3TqHrceX5xHaFoRAsH-153" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="732" />
-              <mxPoint x="320" y="805" />
+              <mxPoint x="429" y="732" />
+              <mxPoint x="429" y="805" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-169" value="L1" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.42;entryY=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-153" target="2I3TqHrceX5xHaFoRAsH-149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="770" />
+              <mxPoint x="489" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-170" value="L1" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.23;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-149" target="2I3TqHrceX5xHaFoRAsH-154" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="448" y="732" />
-              <mxPoint x="460" y="760" />
-              <mxPoint x="500" y="770" />
+              <mxPoint x="557" y="732" />
+              <mxPoint x="569" y="760" />
+              <mxPoint x="609" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2I3TqHrceX5xHaFoRAsH-171" value="L1" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=1;entryY=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2I3TqHrceX5xHaFoRAsH-154" target="2I3TqHrceX5xHaFoRAsH-149" edge="1">
           <mxGeometry x="-0.2387" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="553" y="805" />
-              <mxPoint x="553" y="732" />
+              <mxPoint x="662" y="805" />
+              <mxPoint x="662" y="732" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
