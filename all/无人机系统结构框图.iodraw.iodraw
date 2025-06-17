@@ -678,13 +678,13 @@
           <mxGeometry x="515" y="2610" width="735" height="320" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-139" value="光电红外摄像机" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
-          <mxGeometry x="258" y="2767.5" width="115" height="34" as="geometry" />
+          <mxGeometry x="258" y="2728.5" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-140" value="毫米波雷达" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
-          <mxGeometry x="258" y="2833" width="115" height="34" as="geometry" />
+          <mxGeometry x="258" y="2794" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-141" value="惯性测量单元" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;perimeter=rectanglePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="258" y="2898.5" width="115" height="34" as="geometry" />
+          <mxGeometry x="258" y="2859.5" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-142" value="执行器" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
           <mxGeometry x="1370.25" y="2610" width="100" height="34" as="geometry" />
@@ -702,7 +702,7 @@
           <mxGeometry x="640" y="2957" width="450" height="36" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-148" value="时间同步&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="529" y="2808" width="80" height="80" as="geometry" />
+          <mxGeometry x="529" y="2770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-149" value="空间配准&#xa;算法" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="635" y="2660" width="80" height="80" as="geometry" />
