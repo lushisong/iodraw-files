@@ -343,7 +343,7 @@
           <mxGeometry x="2238" y="1497" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iZuiX0BBJo7LDxWYD9q5-83" value="I8 航迹-避障接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="iZuiX0BBJo7LDxWYD9q5-68" target="iZuiX0BBJo7LDxWYD9q5-69">
-          <mxGeometry x="0.1598" y="10" relative="1" as="geometry">
+          <mxGeometry x="0.0136" y="23" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1796" y="1472" />
             </Array>
