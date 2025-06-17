@@ -772,17 +772,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-163" value="I8 航迹-避障接口" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;startFill=1;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-153" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-163" value="8 航迹-避障接口" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;startFill=1;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-153" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-164" value="I9 航迹指令接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-164" value="9 航迹指令接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.5;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-152" target="iZuiX0BBJo7LDxWYD9q5-154" edge="1">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZuiX0BBJo7LDxWYD9q5-165" value="I10 飞控-执行器接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.13;entryX=0;entryY=0.32;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-154" target="iZuiX0BBJo7LDxWYD9q5-142" edge="1">
+        <mxCell id="iZuiX0BBJo7LDxWYD9q5-165" value="10 飞控-执行器接口" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.13;entryX=0;entryY=0.32;rounded=0;" parent="1" source="iZuiX0BBJo7LDxWYD9q5-154" target="iZuiX0BBJo7LDxWYD9q5-142" edge="1">
           <mxGeometry x="0.536" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1320" y="2590" />
